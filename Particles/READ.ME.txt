@@ -1,0 +1,7 @@
+To make this Project work, I had some help from "The Normie Programmer" and "TA Coding" videos, and some from chat GPT, to explain to me what I was doing wrong lol
+
+
+
+The Normie Programmer - https://www.youtube.com/watch?v=Baj4e9Y3QJA
+
+TA Coding - https://www.youtube.com/watch?v=aEptSB3fbqM
