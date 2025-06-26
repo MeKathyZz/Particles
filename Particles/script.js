@@ -40,7 +40,7 @@
         this.size = Math.random() * 4 + 1;
         this.speedX = (Math.random() - 0.5) * (explode ? 10 : 2);
         this.speedY = (Math.random() - 0.5) * (explode ? 10 : 2);
-        this.color = `hsl(${270 + Math.random() * 60}, 80%, 80%)`;
+        this.color = `hsl(${Math.random() * 360}, 80%, 70%)`;
         this.shadow = `#${Math.floor(Math.random()*16777215).toString(16)}`;
       }
 
